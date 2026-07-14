@@ -1,0 +1,17 @@
+filename = 'e4mc-fabric-6.2.0-modern.jar'
+name = 'e4mc'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1', '26.1.1', '26.1.1', '26.1.2', '26.1.2', '26.2', '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '6.2.0-fabric-modern'
+
+[download]
+hash = '4a848001d0e5d47f5dabc2508151448ecdd8de93a26d4f805feabc8a8f08825a7b957138d1e4de6d47f963c1dcce4637c0375ad284e74cbaca096be17ed63a3e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qANg5Jrr/versions/7xT2gfm2/e4mc-fabric-6.2.0-modern.jar'
+
+[update.modrinth]
+mod-id = 'qANg5Jrr'
+version = '7xT2gfm2'
